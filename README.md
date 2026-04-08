@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Aaron Sekplorm-Awadzi 👋
 
-<!--
-**AceAz/AceAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Graduate | AWS Certified Solutions Architect – Associate | Aspiring Cloud & Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Computer Science graduate with a passion for cloud architecture and software development. 
+I recently earned my AWS Certified Solutions Architect – Associate (SAA-C03) certification and 
+I'm actively building cloud-native applications to sharpen my skills.
+
+---
+
+## 🔧 Tech Stack
+
+**Cloud**
+AWS (API Gateway, Lambda, DynamoDB, S3, EC2, VPC, IAM, CloudWatch and more)
+
+**Languages**
+Python | Java | JavaScript | Dart | C++ | Elixir
+
+**Tools & Frameworks**
+Flutter | Firebase | Gradle | Git | Postman
+
+---
+
+## 📌 Featured Projects
+
+- ☁️ **[AWS Serverless Todo App](https://github.com/AceAz/AWS-Serverless-Todo-List)**
+  Full stack serverless web app built with API Gateway, Lambda, DynamoDB and S3
+  
+- 🌳 **[Huffman Encoding Algorithm](https://github.com/AceAz/Huffman-Algorithm)**
+  Command-line Java implementation of Huffman coding with encoding, decoding and tree visualization
+
+---
+
+## 📜 Certifications
+- 🏆 AWS Certified Solutions Architect – Associate (SAA-C03) — March 2026
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aawadzi/)
+
+---
