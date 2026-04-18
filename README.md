@@ -28,6 +28,9 @@ Flutter | Firebase | Gradle | Git | Postman
 
 - **[AWS Serverless Todo App](https://github.com/AceAz/AWS-Serverless-Todo-List)**
   Full stack serverless web app built with API Gateway, Lambda, DynamoDB and S3
+
+- **[ParkWise](https://github.com/AceAz/ParkWise)**
+  Crowdsourced mobile app for real-time university parking availability built with Flutter, Firebase, and Google Maps API
   
 - **[Huffman Encoding Algorithm](https://github.com/AceAz/Huffman-Algorithm)**
   Command-line Java implementation of Huffman coding with encoding, decoding and tree visualization
